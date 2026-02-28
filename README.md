@@ -15,8 +15,8 @@ spectral graph theory, and cryptographic mathematics.
 
 ## Models Used
 
-- DeepSeek-Math-7B (quantized, CPU)
-- Qwen2-1.5B-Instruct (quantized, CPU)
+-Math-7B (quantized, CPU)
+-Math-1.5B-Instruct (quantized, CPU)
 
 Models are stored locally and are NOT tracked by git.
 
